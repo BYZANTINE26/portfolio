@@ -21,6 +21,8 @@ body {
 img {
     top: 35%;
     left: 50%;
+    bottom: 50%;
+    right: 50%;
     transform: translate(-50%, -50%);
     border-radius: 50%;
     position: center center;
