@@ -9,25 +9,33 @@ html, body {
     margin: 10vh auto 0 auto;
 } */
 
-body {
+#Home {
     background-color: black;
     color: white;
     background-image: url("MIT-Neural-Networks-SL.gif");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    /* height: 100%; */
 }
 
-img {
-    top: 35%;
+
+
+#profile_image {
+    /* top: 35%;
     left: 50%;
     bottom: 50%;
-    right: 50%;
-    transform: translate(-50%, -50%);
+    right: 50%; */
+    /* transform: translate(-50%, -50%); */
     border-radius: 50%;
-    position: relative;
+    /* position: absolute; */
     width: auto;
-    max-width: 60%;
+    max-width: 50%;
     height: auto;
-    max-height: 60%;
+    max-height: 50%;
+}
+
+#profile_name {
+    /* display: flex; */
+    font-size: 8vw;
 }
