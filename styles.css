@@ -39,3 +39,21 @@ html, body {
     /* display: flex; */
     font-size: 8vw;
 }
+
+#sections {
+    background-color: black;
+    min-height: 0px;
+}
+
+#about_me {
+    background-color: #3b3838;
+}
+
+hr {
+    background: cornflowerblue;
+    width: 100px;
+}
+
+p {
+    text-align: justify;
+}
