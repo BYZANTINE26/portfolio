@@ -1,0 +1,703 @@
+.style-0 {
+    display: block;
+    margin: 0px auto;
+    padding: 0px;
+    max-width: 800px;
+    box-sizing: border-box;
+}
+
+.style-1 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-2 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-3 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-4 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-5 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-6 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-7 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-8 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-9 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-10 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-11 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-12 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-13 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-14 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-15 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-16 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-17 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-18 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-19 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-20 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-21 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-22 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-23 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-24 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-25 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-26 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-27 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-28 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-29 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-30 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-31 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-32 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-33 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-34 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-35 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-36 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-37 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-38 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-39 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-40 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-41 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-42 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-43 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-44 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-45 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-46 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-47 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    opacity: 1;
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.3s;
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    background: rgb(33, 33, 33) none repeat scroll 0% 0% / auto padding-box border-box;
+    list-style: outside none none;
+    cursor: default;
+    font-size: 19.2px;
+    border-radius: 5px;
+    border: 0.888889px solid rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 3px 0px;
+    transition: all 0.3s ease 0s;
+    box-sizing: border-box;
+}
+
+.style-48 {
+    transition: color 0.2s ease-out 0s;
+    color: rgb(255, 255, 255);
+    text-decoration: none solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+}

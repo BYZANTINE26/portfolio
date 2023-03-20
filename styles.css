@@ -46,7 +46,7 @@ html, body {
     min-height: 0px;
 }
 
-#about_me {
+#about_me, #experience, #education, #skills {
     background-color: #3b3838;
 }
 
