@@ -182,3 +182,13 @@ p {
     /* right: -55.8px; */
 }
 
+/* .dropdown-item:focus, .dropdown-item:hover, .dropdown-item:active {
+    background-color: #1C2331;
+    color: orange !important;
+} */
+
+.dropdown-item:hover {
+    /* background-color: rgb(49, 49, 49) !important; */
+    background: transparent !important;
+    /* font-weight: bold; */
+}
