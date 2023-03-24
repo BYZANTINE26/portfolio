@@ -192,3 +192,7 @@ p {
     background: transparent !important;
     /* font-weight: bold; */
 }
+
+.dropdown-menu {
+    border: 0px !important;
+}
